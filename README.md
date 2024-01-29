@@ -21,5 +21,5 @@ Analyzing students' performance in their tests, both individually and in groups,
 
 ### Note: 
 
-- This Project is a freelancing work I have completed for Geeta University. I am thankful for Geeta University for allowing me to showcase this project in my Portfolio.
+- This Project is a freelancing work I have completed for Geeta University. I am thankful to Geeta University for allowing me to showcase this project in my Portfolio.
 - Since this is a actual project, hence contain confidential Data. Thus Dataset and Link to Dashboard can't not be uploaded and will be kept confidential as per my Client Agreement. 
